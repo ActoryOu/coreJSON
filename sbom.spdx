@@ -1,0 +1,31 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: coreJSON
+DocumentNamespace: https://github.com/FreeRTOS/coreJSON/blob/v3.3.0/sbom.spdx
+Creator: Organization:Amazon Web Services
+Created: 2024-11-25T02:27:02Z
+CreatorComment: NOASSERTION
+DocumentComment: NOASSERTION
+
+PackageName: coreJSON
+SPDXID: SPDXRef-Package-coreJSON
+PackageVersion: v3.3.0
+PackageDownloadLocation: https://github.com/ActoryOu/coreJSON/tree/v3.3.0
+PackageLicenseDeclared: MIT
+PackageLicenseConcluded: MIT
+PackageLicenseInfoFromFiles: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 1ac2e946d6158f1493959e3b49bb992725b01762
+PackageCopyrightText: NOASSERTION
+PackageSummary: NOASSERTION
+PackageDescription: "A parser strictly enforcing the ECMA-404 JSON standard, suitable for microcontrollers. \n"
+
+
+FileName: ./core_json.c
+SPDXID: SPDXRef-File-corejson.c
+FileChecksum: SHA1: 18872ea3873cd9586415bb0484fe673a1412a7eb
+LicenseConcluded: MIT
+FileCopyrightText: NOASSERTION
+FileComment: NOASSERTION
+
